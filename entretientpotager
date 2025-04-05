@@ -1,0 +1,138 @@
+
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="potager.css">
+        <title>Entretien Potager - Lucas Jardins</title>
+        <meta name="description" content="Service d’entretien de potager par Lucas Jardins. Suivi, soin des plantes, arrosage, paillage, récolte et conseils personnalisés.">
+    
+        <!-- Open Graph -->
+        <meta property="og:title" content="Entretien Potager - Lucas Jardins">
+        <meta property="og:description" content="Lucas Jardins propose un service complet d’entretien potager : semis, désherbage, récolte, conseils saisonniers.">
+        <meta property="og:url" content="https://www.lucasjardins.fr/services/entretien-potager">
+        <meta property="og:image" content="URL_de_l'image_potager.jpg">
+        <meta property="og:type" content="website">
+        <meta name="author" content="Lucas Jardins">
+    
+        <!-- Twitter -->
+        <meta name="twitter:title" content="Entretien Potager - Suivi & soins professionnels par Lucas Jardins">
+        <meta name="twitter:description" content="Confiez l’entretien de votre potager à des experts. Interventions régulières, respect du cycle naturel et astuces écoresponsables.">
+        <meta name="twitter:creator" content="@lucasjardins">
+        <meta name="twitter:site" content="@lucasjardins">
+    
+        <!-- JSON-LD -->
+        <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Service",
+            "name": "Entretien potager",
+            "description": "Service d’entretien de potagers dans les Alpes-Maritimes, incluant semis, arrosage, taille, désherbage, récolte et conseils de culture durable.",
+            "provider": {
+                "@type": "Gardener",
+                "name": "Lucas Jardins",
+                "url": "https://www.lucasjardins.fr",
+                "logo": {
+                    "@type": "ImageObject",
+                    "url": "https://plomberie-Jean-Dupont.fr/image/logo.png",
+                    "width": 300,
+                    "height": 200
+                },
+                "address": {
+                    "@type": "PostalAddress",
+                    "streetAddress": "102 Chemin du Génie",
+                    "postalCode": "06000",
+                    "addressLocality": "Nice",
+                    "addressRegion": "PACA",
+                    "addressCountry": "FR"
+                }
+            }
+        }
+        </script>
+    </head>
+    
+<body>
+    <header>
+        <h1>Entretien-potager</h1>
+        <div class="image-container">
+        <img src="Préparez votre potager pour l'automne.jpg" alt="entretien-potager">
+        <img src="Outil polyvalent pour jardinier.jpg" alt="entretien-potager">
+        <img src="Comment faire un potager pour la première fois _.jpg" alt="entretien-potager">
+        <img src="Comment faire un potager pour la première fois _.jpg" alt="entretien-potager">
+        <img src="Gardening (Coming Soon).jpg" alt="entretien-potager">
+    </header>
+    <main>
+        <section id="description">
+
+            <!-- SECTION 1 : Informations -->
+            <section id="information">
+                <h2>Informations - Entretien Potager</h2>
+                <p>Le service "Entretien potager" de Lucas Jardins permet de garantir une production saine, régulière et respectueuse des cycles naturels. Nous intervenons à différentes étapes : préparation du sol, semis, suivi de croissance, entretien régulier et récolte.</p>
+                <p>Nos prestations sont personnalisées selon la taille du potager, les types de cultures (tomates, herbes aromatiques, légumes racines, etc.) et la saison. Que vous soyez débutant ou expérimenté, nous vous accompagnons pour optimiser vos rendements et entretenir votre sol de manière durable.</p>
+            </section>
+        
+            <!-- SECTION 2 : Fréquence & Saisonnalité -->
+            <section id="frequence">
+                <h2>Fréquence & Saisonnalité</h2>
+                <p>L’entretien est adapté aux cycles naturels. Nous proposons des interventions ponctuelles ou des suivis mensuels, selon vos besoins. Chaque saison a ses spécificités : semis au printemps, entretien en été, récoltes en automne, repos du sol en hiver.</p>
+                <p>Nous vous aidons également à planifier les rotations de cultures et à enrichir naturellement votre sol.</p>
+            </section>
+        
+            <!-- SECTION 3 : Fournisseurs & Outils -->
+            <section id="fournisseurs">
+                <h2>Fournisseurs & Outils</h2>
+                <p>Nos fournisseurs nous approvisionnent en semences biologiques, paillage naturel, compost et engrais organiques. Nous utilisons des outils adaptés, sans produits chimiques, pour préserver la qualité des légumes et la vie du sol.</p>
+                <p>Nous travaillons avec des producteurs locaux pour favoriser une économie circulaire et limiter l’impact carbone de nos approvisionnements.</p>
+            </section>
+        
+            <!-- SECTION 4 : Bénéfices -->
+            <section id="avantages">
+                <h2>Pourquoi faire entretenir son potager ?</h2>
+                <p>Un potager bien entretenu produit davantage, attire les bons insectes et reste en bonne santé toute l’année. Il demande du temps et de la régularité : c’est pourquoi nous vous proposons de vous soulager tout en vous accompagnant dans une démarche responsable.</p>
+                <p>Vous profitez d’un potager beau, productif et en accord avec la nature, tout en recevant des conseils personnalisés pour devenir plus autonome au fil des saisons.</p>
+            </section>
+        
+        </section>
+        
+    </main>
+    <footer>
+        <img src="images/terrasserev1.jpg" alt="un exemlpe d'une terrase rénové">
+    <section id="Contact">
+        <h2>Contact</h2>
+        <ul>
+            <li><a href="https://www.instagram.com/lucasjardins06" target="_blank">Instagram</a></li>
+            <li><a href="https://www.facebook.com/Lucas-Jardins" target="_blank">Facebook</a></li>
+            
+        </ul>
+        <img src="images/plancontact.jpg" alt="un exemlpe d'une terrase rénové">
+        <div id="CompanyInfoContainers">
+            <div class="info_container">
+                <a href="tel:0788760571">07 88 76 05 71</a>
+                <p>Horaires: du lundi au vendredi, de 8h00 – 18h00</p>
+            </div>
+            <img src="assets/images/assets_images_logo.png" alt="logo de l'entreprise Lucas Jardin">
+            <div class="info_container">
+                <a href="mailto:contact@lucasjardins.com">contact@lucasjardins.com</a>
+                <address>102 Chemin du Génie, 06000 Nice</address>
+            </div>
+        </div>
+        <div id="NetworkContainers">
+            <a href=""><img src="assets/icons/fb-icon.svg" alt="Facebook icon"></a>
+            <a href=""><img src="assets/icons/ig-icon.svg" alt="Instagram icon"></a>
+        </div>
+        <div id="CreditContainers">
+            <p class="credit_container">Lucas Jardins © 2025. Refonte réalisée par :</p>
+            <ul class="credit_container">
+                <li><a href="team/lyne_tissot.html">Lyne Tissot</a></li>
+                <li><a href="team/isabella_n_castro.html">Isabella N. Castro</a></li>
+                <li><a href="team/tania_rodrigues.html"></a>Tania Rodrigues</li>
+                <li><a href="">4th person</a></li>
+                <li><a href="">5th person</a></li>
+                <li><a href="">6th person</a></li>
+            </ul>
+    </section>
+        <!-- Footer conservé tel quel -->
+    </footer>
+</body>
+</html>
